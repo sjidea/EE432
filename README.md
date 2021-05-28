@@ -1,5 +1,7 @@
 # EE432 
 디지털신호처리   
+19년 가을  
+  
 (a) Using both the impulse invariance method and the bilinear transformation
 method, design two digital Chebyshev Type I LPFs with the same
 specification below for the digital filters.  
