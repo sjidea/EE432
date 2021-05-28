@@ -12,7 +12,7 @@ the analog filter system functions to the desired digital filter system
 functions using MATLAB. Plot the magnitude responses both in dB and
 linear scale, the group delay responses, and the pole-zero locations using
 MATLAB. Show all steps used in the design. And, compare and discuss the
-results.
+results.  
 (b) Using the windowing method, design linear-phase FIR LPFs with the above
 specification.
 Use each of the following windows for the design: Rectangular and
