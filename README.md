@@ -1,15 +1,12 @@
 # EE432 
-디지털신호처리 
-
-
-
+디지털신호처리   
 (a) Using both the impulse invariance method and the bilinear transformation
 method, design two digital Chebyshev Type I LPFs with the same
-specification below for the digital filters.
- Passband edge at 0.3π rad/sec
- Stopband edge at 0.4π rad/sec
- Maximum passband attenuation of 0.2 dB
- Minimum stopband attenuation of 20 dB
+specification below for the digital filters.  
+ Passband edge at 0.3π rad/sec  
+ Stopband edge at 0.4π rad/sec  
+ Maximum passband attenuation of 0.2 dB  
+ Minimum stopband attenuation of 20 dB  
 At first, design the analog prototype filters using MATLAB. Then, transform
 the analog filter system functions to the desired digital filter system
 functions using MATLAB. Plot the magnitude responses both in dB and
